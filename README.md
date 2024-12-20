@@ -3,7 +3,7 @@ A PowerShell utility that helps you understand what just happened with your last
 
 This tool integrates with Ollama to provide intelligent analysis of PowerShell commands and their results, helping you debug issues, understand errors, or get insights about command output.
 
-#Usage
+# Usage
 
 Run any PowerShell command:
 ```python script.py```
@@ -16,7 +16,7 @@ You can also ask specific questions:
 ```wtf how can I fix this?```
 ```wtf explain the output```
 
-#Requirements
+# Requirements
 Ollama running locally: https://github.com/ollama/ollama
 
 
