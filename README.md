@@ -4,7 +4,7 @@ A PowerShell utility that helps you understand what just happened with your last
 This tool integrates with Ollama to provide intelligent analysis of PowerShell commands and their results, helping you debug issues, understand errors, or get insights about command output.
 
 <div align="center">
- <img alt="demo" height="390px" src="https://github.com/gabriellarson/wtf/blob/main/demo.JPG">
+ <img alt="demo" height="390px" src="https://github.com/gabriellarson/wtf/blob/main/demo.PNG">
 </div>
 
 # Usage
